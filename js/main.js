@@ -1,8 +1,9 @@
 let a =21;
 let b =-1;
 
-function myFun(a, b){
-    if(a == 20 || b == 20 || a + b <= 20 ){
+function myFun(num1, num2){
+    let c;
+    if(num1 == 20 || num2 == 20 || anum1 + num2 <= 20 ){
         c = true;
     } else {
         c = false;
